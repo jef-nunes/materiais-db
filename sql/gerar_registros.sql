@@ -1,3 +1,5 @@
+-- Mock de registros no banco
+
 USE LojaDeMateriais;
 
 -- Registrar fornecedores
